@@ -1,6 +1,6 @@
 function iniciarJogo () {
     setSpeed();
-    location.assign('../stages/game');
+    location.assign('./stages/game');
 }
 
 function setSpeed () {
