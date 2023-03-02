@@ -32,6 +32,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Como Jogar
 
+![Mata-mosca](https://user-images.githubusercontent.com/81466026/222433807-6bd8be08-aa43-4e88-9eaa-25a7b550e83a.gif)
+
 - Na página inicial do jogo escolha o nível e clique start para iniciar a partida.
 - Clique sobre as moscas para mata-las e somar pontos.
 - Caso demore para matar a mosca ela troca de lugar e você perde uma vida.
